@@ -5,6 +5,7 @@
     <RootNamespace>Jenkins_Dotnet.API</RootNamespace>
     <UserSecretsId>068ad9e1-4938-42f4-9a93-789c40a0a93d</UserSecretsId>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <InvariantGlobalization>true</InvariantGlobalization>
   </PropertyGroup>
 
   <ItemGroup>
